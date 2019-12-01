@@ -2,11 +2,7 @@
  My PCTECH repository.
  
 ---
- 
-Roland Strasser
-Email:    rolstrasser@gmail.com
-Telegram: @rolstrasser
-
+Roland Strasser | EMAIL: rolstrasser@gmail.com | TELEGRAM: @rolstrasser
 ---
 
 Upload:
