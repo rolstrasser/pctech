@@ -1,6 +1,19 @@
 # pctech
  My PCTECH repository.
  
- rolstrasser@gmail.com
+---
+ 
+Roland Strasser
+Email:    rolstrasser@gmail.com
+Telegram: @rolstrasser
+
+---
+
+Upload:
+
+Download:
+
+
+
  
  
