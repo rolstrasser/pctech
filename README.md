@@ -1,5 +1,5 @@
 # pctech
- My *PRIVATE* PCTECH repository. No commercial use!
+ My PCTECH repository. Private - No commercial use!
  Revised: 2019-12-02
 
  
