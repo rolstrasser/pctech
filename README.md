@@ -6,11 +6,7 @@
 
 ## Impressum
 
- Roland Strasser
- 
- EMAIL: rolstrasser@gmail.com
- 
- TELEGRAM: @rolstrasser
+ Roland Strasser | EMAIL: rolstrasser@gmail.com | TELEGRAM: @rolstrasser
  
  
  
